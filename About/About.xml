@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<packageId>arl85.FixAnimalCount</packageId>
-	<name>FixAnimalCount</name>
+	<name>Fix animal count on auto-slaughter window</name>
 	<author>arl85</author>
 	<url>https://github.com/angelolocritani/Rimworld-FixAnimalCount</url>
 	<supportedVersions>
