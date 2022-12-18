@@ -33,7 +33,7 @@ namespace Rimworld_FixAnimalCount
         {
             static void Postfix(int currentMales, int currentMalesYoung, int currentFemales, int currentFemalesYoung, ref int currentTotal)
             {
-                currentTotal = currentMales + -currentMalesYoung + currentFemales + currentFemalesYoung;
+                currentTotal = currentMales + currentMalesYoung + currentFemales + currentFemalesYoung;
             }
 
         }
