@@ -21,4 +21,7 @@ even if 10 > 8, no slaughter occurs because internally the "real" calculation co
 
 this mod fixes the value of the total count, considering pregnant females only if the specifich check is toggled: it aligns the logic to how bonded animal are managed. Indeed if "slaughter bonded" is NOT check, they are NOT counted in total column.
 
+Note: this mod is now included in [XNDTinyTweaks >= 1.4.2](https://github.com/emipa606/XNDTinyTweaks/releases/latest)
+
 [![Steam download](https://img.shields.io/steam/downloads/2903360884?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2903360884)
+
