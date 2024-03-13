@@ -23,5 +23,7 @@ this mod fixes the value of the total count, considering pregnant females only i
 
 Note: this mod is now included in [XNDTinyTweaks >= 1.4.2](https://github.com/emipa606/XNDTinyTweaks/releases/latest)
 
+**No longer needed since Rimworld 1.5 because the issue has been fixed in vanilla.**
+
 [![Steam download](https://img.shields.io/steam/downloads/2903360884?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2903360884)
 
